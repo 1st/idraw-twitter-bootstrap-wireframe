@@ -15,3 +15,9 @@ Feel free to place comments and send you improvements to this project.
 
 Best regards,
 Anton Danilchenko
+
+
+Example for 12 columns grid
+==========
+
+![12 columns grid for Twitter Bootstrap in iDraw](/samples/test_project_12columns.jpg)
